@@ -34,7 +34,7 @@ git clone https://github.com/your-username/travel-blog-html-example.git
 ## Project Structure
 
 The project has the following structure:
-
+```
 travel-blog-html-example/
 ├── index.html
 ├── style.css
@@ -46,7 +46,7 @@ travel-blog-html-example/
 │ ├── barcelona.jpg
 │ └── praga.jpg
 └── README.md
-
+```
 - `index.html`: The main HTML file that contains the structure of the travel blog website.
 - `style.css`: The CSS file that contains the styles for the HTML elements.
 - `images/`: A directory that contains the images used in the blog articles and gallery.
@@ -73,6 +73,6 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or feedback, please feel free to contact me.
 
 Happy blogging!
