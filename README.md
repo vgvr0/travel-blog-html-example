@@ -22,14 +22,16 @@ To get a local copy of the project, you can follow these steps:
 
 1. Clone the repository:
 
-```git
+```bash
 git clone https://github.com/your-username/travel-blog-html-example.git
 ```
 
 2. Navigate to the project directory:
-``` cd travel-blog-html-example ```
+```bash
+cd travel-blog-html-example
+```
 
-3. Open the `index.html` file in your web browser.
+4. Open the `index.html` file in your web browser.
 
 ## Project Structure
 
