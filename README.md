@@ -27,7 +27,7 @@ git clone https://github.com/your-username/travel-blog-html-example.git
 ```
 
 2. Navigate to the project directory:
-> cd travel-blog-html-example
+``` cd travel-blog-html-example ```
 
 3. Open the `index.html` file in your web browser.
 
